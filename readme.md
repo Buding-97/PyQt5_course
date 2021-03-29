@@ -31,7 +31,7 @@ or
 ```
 **必须在paintEvent事件方法中绘制各种元素**
 
-#使用Pyinstaller打包PyQt5应用
+# 使用Pyinstaller打包PyQt5应用
 
 ```
 pip3 install pyinstaller
